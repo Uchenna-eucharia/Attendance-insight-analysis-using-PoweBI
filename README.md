@@ -1,4 +1,4 @@
-# Dominion city (Olive Parish) Attendance from January to October insight analysis using PoweBI
+# Dominion city (Olive Parish) Attendance from January to October insight analysis using PowerBI
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
